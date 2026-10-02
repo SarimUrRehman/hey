@@ -1,0 +1,6 @@
+{
+  "name": "HeyDay Auto Detail",
+  "description": "Estudio especializado en Detallado Automotriz, PPF XPEL, Window Film y Ceramic Coating. Protección y brillo de agencia para tu auto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
